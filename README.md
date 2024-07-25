@@ -64,6 +64,8 @@ CREATE_DATABASE Human_friends;
 ![image](https://github.com/user-attachments/assets/a21c40cd-2d33-4900-851c-7851cbc28cab)
 
 
+13. Создать класс с Инкапсуляцией методов и наследованием по диаграмме.
+Classes
 
 
 
